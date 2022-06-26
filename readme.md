@@ -8,4 +8,13 @@
 - Undo, Revert
 - GitHub でも編集できる
 
+### mermaid
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 ---
